@@ -1,14 +1,14 @@
 body {
 font-family: Arial, sans-serif;
 color: #333;
-background-color: #f9f9f9;
+background-color: #01fd7f;
 margin: 0;
 padding: 0;
 line-height: 1.6;
 }
 header {
-background-color: #4CAF50;
-color: white;
+background-color: #89af4c;
+color: rgb(219, 12, 64);
 padding: 20px;
 text-align: center;
 }
@@ -59,10 +59,10 @@ a:hover {
 text-decoration: underline;
 }
 img {
-border: 5px solid #4CAF50;
+border: 5px solid #d39117;
 border-radius: 10px;
 }
 main a[href^="mailto:"] {
-color: #ff5722;
+color: rgb(34, 46, 209);
 font-weight: bold;
 }
