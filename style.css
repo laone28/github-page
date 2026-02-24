@@ -7,8 +7,8 @@ padding: 0;
 line-height: 1.6;
 }
 header {
-background-color: #f8c417;
-color: rgb(226, 210, 214);
+background-color: #6c0ce9;
+color: rgb(29, 17, 20);
 padding: 20px;
 text-align: center;
 }
@@ -38,7 +38,7 @@ display: block;
 margin: 20px 0;
 }
 footer {
-background-color: #f8c621;
+background-color: #13fc7cb7;
 color: rgb(10, 2, 2);
 text-align: center;
 padding: 10px;
