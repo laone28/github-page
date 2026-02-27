@@ -7,8 +7,8 @@ padding: 0;
 line-height: 1.6;
 }
 header {
-background-color: #e90c17;
-color: rgb(91, 165, 235);
+background-color: #0cbde9;
+color: rgb(99, 110, 121);
 padding: 20px;
 text-align: center;
 
@@ -33,6 +33,10 @@ padding: 20px;
 max-width: 800px;
 margin: 0 auto;
 }
+h5{
+position:fixed;
+align-items: flex-end;
+}
 main img {
      align-items: center;
 max-width: 100%;
@@ -41,9 +45,9 @@ display: block;
 margin: 20px 0;
 }
 footer {
-background-color: #a613fcb7;
-color: rgb(236, 29, 29);
-text-align:center
+background-color:#e90c17;
+text-align: center;
+
 }
 p {
 font-size: 1.5em;
