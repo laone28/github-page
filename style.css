@@ -8,13 +8,14 @@ line-height: 1.6;
 }
 header {
 background-color: #e90c17;
-color: rgb(29, 17, 20);
+color: rgb(91, 165, 235);
 padding: 20px;
 text-align: center;
 text-decoration:  underline;
 }
 
 header h1 {
+     background-color: aqua;
 margin: 0;
 }
 
@@ -40,7 +41,7 @@ margin: 20px 0;
 }
 footer {
 background-color: #a613fcb7;
-color: rgb(10, 2, 2);
+color: rgb(236, 29, 29);
 text-align: center;
 padding: 10px;
 position: fixed;
