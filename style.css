@@ -11,7 +11,7 @@ background-color: #e90c17;
 color: rgb(91, 165, 235);
 padding: 20px;
 text-align: center;
-text-decoration:  underline;
+
 }
 
 header h1 {
@@ -28,6 +28,7 @@ nav a:hover {
 text-decoration: underline;
 }
 main {
+
 padding: 20px;
 max-width: 800px;
 margin: 0 auto;
@@ -42,11 +43,7 @@ margin: 20px 0;
 footer {
 background-color: #a613fcb7;
 color: rgb(236, 29, 29);
-text-align: center;
-padding: 10px;
-position: fixed;
-bottom: 0;
-width: 100%;
+text-align:center
 }
 p {
 font-size: 1.5em;
@@ -63,6 +60,7 @@ text-decoration: underline;
 img {
 border: 5px solid #21f02b;
 border-radius: 10px;
+  align-items: center;
 }
 main a[href^="mailto:"] {
 color: rgb(3, 5, 22);
