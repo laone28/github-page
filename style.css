@@ -33,9 +33,11 @@ padding: 20px;
 max-width: 800px;
 margin: 0 auto;
 }
-h5{
+h5,p[card-text]{
 position:fixed;
 align-items: flex-end;
+position: sticky;
+color: #020c02;
 }
 main img {
      align-items: center;
