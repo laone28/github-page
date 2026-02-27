@@ -7,10 +7,11 @@ padding: 0;
 line-height: 1.6;
 }
 header {
-background-color: #6c0ce9;
+background-color: #e90c17;
 color: rgb(29, 17, 20);
 padding: 20px;
 text-align: center;
+text-decoration:  underline;
 }
 
 header h1 {
@@ -19,7 +20,7 @@ margin: 0;
 
 nav a {
 color: rgb(12, 3, 3);
-text-decoration: none;
+text-decoration:  underline;
 margin: 0 10px;
 }
 nav a:hover {
@@ -31,14 +32,14 @@ max-width: 800px;
 margin: 0 auto;
 }
 main img {
-
+     align-items: center;
 max-width: 100%;
-height: auto;
+height: 200px;
 display: block;
 margin: 20px 0;
 }
 footer {
-background-color: #13fc7cb7;
+background-color: #a613fcb7;
 color: rgb(10, 2, 2);
 text-align: center;
 padding: 10px;
@@ -47,7 +48,7 @@ bottom: 0;
 width: 100%;
 }
 p {
-font-size: 1.1em;
+font-size: 1.5em;
 }
 
 a {
